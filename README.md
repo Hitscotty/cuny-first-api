@@ -1,6 +1,6 @@
 # cuny-first-api
  I've created two api's one for cuny-first to get structured data about classes and registration. The second api returns data
- from cuny.edu I've put it together as one giant api. Happy developing!
+ from cuny.edu I've put it together as one giant api. Happy developing!  The base url is: http://cunyfirstapi.herokuapp.com
 
 
 #endpoints
