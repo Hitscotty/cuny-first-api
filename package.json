@@ -1,0 +1,39 @@
+{
+  "name": "cuny-first-api",
+  "version": "1.0.0",
+  "description": "an api for cuny first",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "config-js": "^1.1.9",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "jQuery": "^1.7.4",
+    "lodash": "^4.17.2",
+    "mongodb": "^2.2.14",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.7.2",
+    "nightmare": "^2.8.1",
+    "nightmare-iframe-manager": "^0.0.4",
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0",
+    "start": "^4.0.2",
+    "url-parse": "^1.1.7",
+    "x-ray": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitscotty/cuny-first-api.git"
+  },
+  "author": "Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hitscotty/cuny-first-api/issues"
+  },
+  "homepage": "https://github.com/Hitscotty/cuny-first-api#readme"
+}
